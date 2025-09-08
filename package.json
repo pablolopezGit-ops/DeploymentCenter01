@@ -1,6 +1,6 @@
 {
   "scripts": {
     "build": "echo 'No build needed'",
-    "app_location": "C:\"
+    "app_location": "Client"
   }
 }
