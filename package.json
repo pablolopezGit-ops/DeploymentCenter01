@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "build": "echo 'No build needed'",
-    "app_location": "Client"
+    "build": "echo 'No build needed'"
   }
 }
